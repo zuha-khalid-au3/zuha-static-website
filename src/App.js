@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Zuha <code>src/App.js</code> and save to reload.
+         Siraj <code>src/App.js</code> and save to reload.
         </p>
         <h1>Changes made after deployement</h1>
         <a
